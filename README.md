@@ -1,7 +1,4 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{ShehzadSultan04}/count.svg" alt="Visitor's Count" />
-</div>
+[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:9969C7,100:552586&text=Hey!&fontAlignY=35)
 
 <!--
 **ShehzadSultan04/ShehzadSultan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
