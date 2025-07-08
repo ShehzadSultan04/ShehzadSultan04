@@ -23,8 +23,8 @@
 
 </div>
 
-<hr>
-
+<h3>👨🏽‍💻 A Little Bit About Me and Who I Am</h3>
+<br>
 
 ```yaml
 name: Shehzad Sultan
@@ -56,7 +56,7 @@ currently_learning: [PyTorch, Docker, and Firebase"
 hobbies: [Formula 1, Gaming, Traveling, Consumer Technology, Cars, Playing Guitar, Astronomy]
 
 ```
-
+<hr>
 
 
 
