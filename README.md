@@ -9,7 +9,7 @@
 
   <h3>Let's connect and have a chat! 💬</h3>
   
-  <a href="shehzadsultan2004@gmail.com" >
+  <a href="mailto:shehzadsultan2004@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
