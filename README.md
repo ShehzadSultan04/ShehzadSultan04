@@ -73,6 +73,19 @@ hobbies: [Formula 1, Gaming, Traveling, Consumer Technology, Cars, Playing Guita
 </p>
 <hr>
 
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ShehzadSultan04&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="shehzadsultan04's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shehzadsultan04&theme=transparent&count_private=true&border_radius=10&locale=en" alt="shehzadsultan04's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=shehzadsultan04&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ShehzadSultan's Most Used Languages" />
+</div>
+
+<hr>
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
