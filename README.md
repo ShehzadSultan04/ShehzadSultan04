@@ -73,6 +73,9 @@ hobbies: [Formula 1, Gaming, Traveling, Consumer Technology, Cars, Playing Guita
 </p>
 <hr>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:9969C7,100:552586&fontAlignY=35&section=footer" />
 </div>
