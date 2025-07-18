@@ -52,7 +52,7 @@ technical_backround:
     "Intern - Full Stack Web Development"
   ]
 
-currently_learning: [PyTorch, Firebase, and Kubernetes"
+currently_learning: [PyTorch, AWS, Firebase, and Kubernetes]
 hobbies: [Formula 1, Gaming, Traveling, Consumer Technology, Cars, Playing Guitar, Astronomy]
 
 ```
