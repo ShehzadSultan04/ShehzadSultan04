@@ -29,8 +29,8 @@
 ```yaml
 name: Shehzad Sultan
 located_in: Hillsborough, New Jersey
-current_job: Research Intern
-company: Winlab
+current_job: Digital Employee Experience (DEX) Co-Op
+company: Johnson & Johnson (via Cognizant)
 
 education:
   [
